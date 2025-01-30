@@ -1,4 +1,4 @@
-# house-price-prediction
+# House-price-prediction
 
 For a number of parties involved, including buyers, sellers, real estate brokers, and financial institutions, predicting home values is essential. Making educated decisions about loans, market analysis, and real estate investments can be aided by accurate forecasts. Our goal in this project is to apply a machine learning algorithm to develop a predictive model that will estimate property prices based on several house attributes.
 
